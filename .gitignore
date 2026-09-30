@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
